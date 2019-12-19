@@ -1,4 +1,4 @@
-# Stephen Hawking Tribute Page
+# Product Landing Page
 
 This is a freecodecamp project to build a product landing page .
 
